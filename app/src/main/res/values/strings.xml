@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hi</string>
+    <string name="title_word">单词</string>
+    <string name="title_collect">收藏</string>
+    <string name="title_my">我的</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text_name">英语</string>
+    <string name="hi_xieyi">已阅读并同意服务协议及Hi隐私保护指引</string>
+    <string name="hi_name">‘Hi’昵称</string>
+    <string name="hi_pwd">‘Hi’密码</string>
+    <string name="hi_logn">登</string>
+    <string name="hi_sign">新用户注册</string>
+    <string name="register_text">用账号及密码注册</string>
+    <string name="register_account">账：</string>
+    <string name="register_pwd">密：</string>
+    <string name="register_btn">确认注册</string>
+    <string name="my_txt_id">Hi2020041020</string>
+    <string name="my_txt_name">鸡毛课</string>
+    <string name="my_txt_word">学习单词：</string>
+    <string name="my_txt_number">0</string>
+    <string name="my_txt_data">当前时间：</string>
+    <string name="my_txt_data_number">09:14:20</string>
+    <string name="my_txt_search">在线查意</string>
+    <string name="my_txt_help">帮助与反馈</string>
+    <string name="my_txt_word_number">每日一文</string>
+    <string name="word_number">一共有</string>
+</resources>
